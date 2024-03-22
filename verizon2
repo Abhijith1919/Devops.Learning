@@ -1,0 +1,5 @@
+git add
+git status
+git commit -m "label" filename
+
+git reset --soft cid (local to staging)
